@@ -1,4 +1,4 @@
-# demo
+# vue-music
 
 ## Project setup
 ```
